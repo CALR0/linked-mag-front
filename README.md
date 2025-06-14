@@ -53,4 +53,4 @@ Este proyecto fue desarrollado por:
 
 ---
 
-© 2025
+LinkedMag Team © 2025
