@@ -1,10 +1,26 @@
-# LinkedMag
+<h1 align="center">🚀 LinkedMag</h1>
 
-LinkedMag es una plataforma desarrollada en Angular para la gestión de ofertas laborales y perfiles estudiantiles, facilitando la conexión entre empresas y estudiantes universitarios.
+<p align="center">
+  Plataforma web para conectar estudiantes universitarios con oportunidades laborales de forma eficiente y moderna.
+</p>
 
-## Demostración
+<p align="center">
+  <strong>Desarrollado con Angular + PrimeNG + TailwindCSS</strong>
+</p>
 
-A continuación se muestran imagenes de la plataforma LinkedMag:
+---
+
+## ¿Qué es LinkedMag?
+
+**LinkedMag** es una plataforma desarrollada en Angular para la gestión de **ofertas laborales** y **perfiles estudiantiles**, diseñada para facilitar la conexión entre empresas y estudiantes universitarios.  
+
+Ofrece una interfaz intuitiva, moderna y adaptada a las necesidades actuales del entorno académico y empresarial.
+
+---
+
+## Demostración visual
+
+A continuación se muestran capturas de pantalla del funcionamiento de la plataforma:
 
 <p align="center">
   <img src="public/demo1.png" alt="Demo 1" width="600"/>
@@ -25,11 +41,13 @@ Visita el sitio: https://linkedmag.netlify.app/
 ---
 ## Tecnologías principales
 
-- [Angular CLI 19.2.6](https://angular.io/)
-- [PrimeNG](https://www.primefaces.org/primeng/)
-- [PrimeIcons](https://www.primefaces.org/primeicons/)
-- [PrimeFlex](https://www.primefaces.org/primeflex/)
-- [TailwindCSS PrimeUI](https://www.npmjs.com/package/tailwindcss-primeui)
+- ⚙️ [**Angular CLI 19.2.6**](https://angular.io/)
+- 🎨 [**PrimeNG**](https://www.primefaces.org/primeng/)
+- 🧩 [**PrimeIcons**](https://www.primefaces.org/primeicons/)
+- 📐 [**PrimeFlex**](https://www.primefaces.org/primeflex/)
+- 🌈 [**TailwindCSS PrimeUI**](https://www.npmjs.com/package/tailwindcss-primeui)
+
+---
 
 ## Instalación y configuración
 
@@ -50,7 +68,7 @@ Visita el sitio: https://linkedmag.netlify.app/
 
 ---
 
-## Contribuidores 
+## Contribuidores del proyecto
 Este proyecto fue desarrollado por:
 
 >- [Carlos Lizarazo](https://github.com/CALR0)
@@ -60,4 +78,4 @@ Este proyecto fue desarrollado por:
 
 ---
 
-© 2025
+LinkedMag Team © 2025
