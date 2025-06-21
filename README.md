@@ -16,6 +16,13 @@ A continuación se muestran imagenes de la plataforma LinkedMag:
   <img src="public/demo3.png" alt="Demo 3" width="600"/>
 </p>
 
+---
+
+## Chequealo en linea
+
+Visita el sitio: https://linkedmag.netlify.app/
+
+---
 ## Tecnologías principales
 
 - [Angular CLI 19.2.6](https://angular.io/)
